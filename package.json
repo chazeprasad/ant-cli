@@ -1,0 +1,19 @@
+{
+  "name": "ant-cli",
+  "version": "0.0.1",
+  "description": "Ant:cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chazeprasad/ant-cli.git"
+  },
+  "author": "Prasad Sivanandan <chazeprasad@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chazeprasad/ant-cli/issues"
+  },
+  "homepage": "https://github.com/chazeprasad/ant-cli#readme"
+}
